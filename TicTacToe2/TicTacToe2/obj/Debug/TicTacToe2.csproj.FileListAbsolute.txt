@@ -1,0 +1,10 @@
+C:\Users\Neels\source\repos\TicTacToe2\TicTacToe2\bin\Debug\TicTacToe2.exe.config
+C:\Users\Neels\source\repos\TicTacToe2\TicTacToe2\bin\Debug\TicTacToe2.exe
+C:\Users\Neels\source\repos\TicTacToe2\TicTacToe2\bin\Debug\TicTacToe2.pdb
+C:\Users\Neels\source\repos\TicTacToe2\TicTacToe2\obj\Debug\TicTacToe2.csproj.AssemblyReference.cache
+C:\Users\Neels\source\repos\TicTacToe2\TicTacToe2\obj\Debug\TicTacToe2.Form1.resources
+C:\Users\Neels\source\repos\TicTacToe2\TicTacToe2\obj\Debug\TicTacToe2.Properties.Resources.resources
+C:\Users\Neels\source\repos\TicTacToe2\TicTacToe2\obj\Debug\TicTacToe2.csproj.GenerateResource.cache
+C:\Users\Neels\source\repos\TicTacToe2\TicTacToe2\obj\Debug\TicTacToe2.csproj.CoreCompileInputs.cache
+C:\Users\Neels\source\repos\TicTacToe2\TicTacToe2\obj\Debug\TicTacToe2.exe
+C:\Users\Neels\source\repos\TicTacToe2\TicTacToe2\obj\Debug\TicTacToe2.pdb
