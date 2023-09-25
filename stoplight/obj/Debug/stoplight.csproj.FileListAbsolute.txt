@@ -1,0 +1,10 @@
+N:\stoplight\obj\Debug\stoplight.csproj.AssemblyReference.cache
+N:\stoplight\obj\Debug\stoplight.Form1.resources
+N:\stoplight\obj\Debug\stoplight.Properties.Resources.resources
+N:\stoplight\obj\Debug\stoplight.csproj.GenerateResource.cache
+N:\stoplight\obj\Debug\stoplight.csproj.CoreCompileInputs.cache
+N:\stoplight\bin\Debug\stoplight.exe.config
+N:\stoplight\bin\Debug\stoplight.exe
+N:\stoplight\bin\Debug\stoplight.pdb
+N:\stoplight\obj\Debug\stoplight.exe
+N:\stoplight\obj\Debug\stoplight.pdb
