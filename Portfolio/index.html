@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Personal Portfolio</title>
+        <Style>
+            body{
+                margin: 0;
+                background-color: lightblue;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                min-height: 100vh;
+            }
+            #content{
+                text-align: center;
+                
+            }
+            button{
+                margin: 10px;
+                padding: 10px 20px;
+                background-color: transparent;
+                color:transparent;
+                border: 1px solid black 1px black ;
+                cursor: pointer;
+            }
+        </Style>
+    </head>
+    <body>
+        <div id="=content">
+            <h1 style="color:green;">Hi!</h1>
+            <h1 style="color:green">I'm Neelagandan</h1>
+            <button style="background-color: green;color:yellow;"onclick="resumePage()">Resume</button>
+            <button style="background-color: green;color: yellow;"onclick="projectsPage()">Projects</button> 
+            <button style="background-color: green;color:yellow;"onclick="LinkedInPage()">LinkedIn</button>
+            
+        </div>
+        <script>
+            function resumePage(){
+                window.location.href='resume.html';
+            }
+            function projectsPage() {
+                window.location.href = 'https://github.com/NeelagandanS/MyProjects.git' ;
+            }
+            function LinkedInPage(){
+                window.location.href = 'https://www.linkedin.com/in/neelagandan-s-844722292/' ;
+            }
+        </script>
+    </body>
+</html>
